@@ -1,136 +1,330 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C2FF,50:FF7A18,100:7DFF72&text=ZENITHCODR&fontSize=62&fontAlignY=38&desc=AI%20x%20Full-Stack%20Builder%20%7C%20Designing%20Products%20People%20Actually%20Use&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C2FF,45:7C3AED,100:FF7A18&text=HARSHIT%20AMAN&fontSize=60&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%2FML%20Explorer%20%7C%20Full-Stack%20Builder&descAlignY=60&animation=fadeIn" />
 
-<h3>⚡ Turning ambitious ideas into real, usable software</h3>
+<h2>⚡ Building intelligent software with code, curiosity, and creativity</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=900&color=00C2FF&lines=Build+fast.+Learn+faster.;AI%2FML+meets+product-first+engineering.;From+health-tech+to+interactive+web+apps.;Clean+UX%2C+solid+logic%2C+real+impact." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=900&center=true&vCenter=true&width=950&color=00C2FF&lines=AI%2FML+%7C+Generative+AI+%7C+Full-Stack+Development;Healthcare+AI+%7C+Price+Automation+%7C+Computer+Vision;Turning+ideas+into+useful+digital+products;Learning.+Building.+Improving." />
+
+<br/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Zenithcodr&label=Profile%20Views&style=for-the-badge&color=00C2FF" />
-  <img src="https://img.shields.io/github/followers/Zenithcodr?style=for-the-badge&color=FF7A18&labelColor=111827" />
-  <img src="https://img.shields.io/github/stars/Zenithcodr?style=for-the-badge&color=7DFF72&labelColor=111827" />
+  <img src="https://img.shields.io/github/followers/Zenithcodr?style=for-the-badge&color=7C3AED&labelColor=111827" />
+  <img src="https://img.shields.io/github/stars/Zenithcodr?style=for-the-badge&color=FF7A18&labelColor=111827" />
 </p>
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🧠 About Me
 
-- 🧠 AI and full-stack developer focused on products that solve real-world problems
-- 🚀 Currently building scalable apps with practical ML integration
-- 🏆 Interested in hackathons, open-source collaboration, and production-grade engineering
-- 🛠️ Strong focus on clean UI, smooth UX, and maintainable code
-- 📍 India
-- 📫 Reach me: amanharshit100@gmail.com
+```python
+class HarshitAman:
+    def __init__(self):
+        self.role = "Computer Science Undergraduate"
+        self.college = "SRM Institute of Science and Technology"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Generative AI",
+            "Full-Stack Development",
+            "Computer Vision"
+        ]
+        self.current_focus = [
+            "AI Healthcare Assistant",
+            "Smart Price Tracker",
+            "Diabetic Retinopathy Detection System"
+        ]
+        self.mindset = "Build with purpose. Learn with consistency. Improve with feedback."
 
----
+    def say_hi(self):
+        return "Thanks for visiting my GitHub profile!"
+```
 
-## 🧰 Tech Stack
+I am a **Computer Science and Engineering undergraduate** passionate about building software that solves practical problems.
 
-### 📱 App and Frontend
-<p>
-  <img src="https://img.shields.io/badge/Swift-FF6B35?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### 🤖 AI and ML
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
-
-### ☁️ Backend and Tools
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+My work combines **AI/ML, web development, automation, computer vision, and product thinking**. I enjoy building projects that are not just technically interesting, but also useful in real-world scenarios — from healthcare assistants and price tracking systems to deep learning models for medical image analysis.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I’m Currently Exploring
 
-### 🍎 SIH-Heath-Ease-
-Health-focused app concept with strong product direction and practical implementation for real users.  
-Tech: HTML, UI design, product logic  
-Repo: https://github.com/Zenithcodr/SIH-Heath-Ease-
+- 🤖 AI-powered applications using Python, Transformers, TensorFlow, and NLP  
+- 🧠 Machine learning systems for healthcare and medical image analysis  
+- 🌐 Full-stack web applications using React, Node.js, Express, and Supabase  
+- 📊 Dashboards and visual analytics using Recharts and modern UI tools  
+- ⚙️ Automation workflows for real-time tracking and smart notifications  
+- ✍️ Creative writing, fanfiction, storytelling, and world-building  
 
-### 🤖 AI-Powered-Health-Assistant-
-AI-driven health assistant project combining machine learning workflow with useful user interactions.  
-Tech: Python, ML, intelligent response flow  
-Repo: https://github.com/Zenithcodr/AI-Powered-Health-Assistant-
+---
 
-### 🧩 quiz-app
-Interactive quiz experience with clean question flow and scoring logic.  
-Tech: TypeScript, frontend logic  
-Repo: https://github.com/Zenithcodr/quiz-app
+## 🛠️ Tech Stack
 
-### 🎮 Interactive-Quiz-Webapp
-Single-page quiz platform with progress tracking and feedback for improved engagement.  
-Tech: Web app architecture, user feedback loops  
-Repo: https://github.com/Zenithcodr/Interactive-Quiz-Webapp
+<div align="center">
 
-### 🌐 srm-bfhl-fullstack
-Full-stack project showcasing integration of frontend, backend, and application logic.  
-Tech: JavaScript, full-stack patterns  
-Repo: https://github.com/Zenithcodr/srm-bfhl-fullstack
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css&perline=8" />
+
+<br/>
+
+### 🤖 AI, ML and Data
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=8" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+
+<br/>
+
+### 🌐 Web and Full Stack
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind,supabase,mysql,mongodb&perline=8" />
+
+<br/>
+
+### ⚙️ Tools and Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=8" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" />
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+<h3>🩺 AI-Powered Healthcare Assistant Chatbot</h3>
+
+An AI-powered chatbot built to provide quick preliminary health-related suggestions through an interactive web interface.
+
+<b>Highlights:</b>
+
+- Uses a pre-trained GPT-2 model from Hugging Face  
+- Combines AI-generated responses with rule-based advice  
+- Supports conversations around symptoms, appointments, and medication guidance  
+- Built with a simple, accessible Streamlit interface  
+
+<b>Tech Used:</b>
+
+`Python` `Streamlit` `Hugging Face` `Transformers` `TensorFlow` `NLTK`
+
+<br/><br/>
+
+<a href="https://github.com/Zenithcodr/AI-Powered-Health-Assistant-">
+<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
+
+<h3>🛒 Smart Price Tracker</h3>
+
+A Progressive Web Application that helps users monitor product prices across e-commerce platforms and receive smart alerts.
+
+<b>Highlights:</b>
+
+- Tracks product prices and stock availability  
+- Shows historical price trends using charts  
+- Provides user authentication and personalized dashboards  
+- Supports automated scheduled price checks  
+- Sends alerts when prices drop or items return in stock  
+
+<b>Tech Used:</b>
+
+`React.js` `Tailwind CSS` `Zustand` `Recharts` `Node.js` `Express.js` `Supabase`
+
+<br/><br/>
+
+<a href="https://github.com/Zenithcodr">
+<img src="https://img.shields.io/badge/View%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
+<h3>👁️ Hybrid Vision Transformer for Cross-Population Diabetic Retinopathy Detection</h3>
+
+A deep learning project focused on automated detection of diabetic retinopathy from retinal fundus images.
+
+<b>Highlights:</b>
+
+- Processes retinal medical images using computer vision techniques  
+- Evaluates CNN, Vision Transformer, and ConvNeXt-based architectures  
+- Classifies retinal images according to disease severity  
+- Uses metrics like F1-score and accuracy to evaluate reliability  
+- Explores AI-assisted early screening support for healthcare providers  
+
+<b>Tech Used:</b>
+
+`Python` `TensorFlow` `PyTorch` `CNN` `Vision Transformer` `ConvNeXt` `OpenCV` `NumPy` `Pandas` `Matplotlib` `Jupyter Notebook`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 Project Philosophy
+
+<div align="center">
+
+| Think | Build | Test | Improve | Impact |
+|---|---|---|---|---|
+| Understand the problem | Create a working solution | Measure results | Refine the system | Make it useful |
+
+</div>
+
+I like building projects that combine **technical learning with practical value**.
+
+For me, a good project is not just about writing code. It is about understanding the problem, designing a clean solution, improving it step by step, and making something that people can actually use.
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-00C2FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NPTEL-Database%20Systems-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NPTEL-Machine%20Learning-FF7A18?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MongoDB-Associate%20Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+</div>
+
+---
+
+## 🌱 Beyond Code
+
+- 🌍 Volunteer at **Navdrishti NGO**  
+- ✍️ Fanfic writer and creative storyteller  
+- 📚 Interested in novels, fiction, and rewriting stories with new perspectives  
+- 🗣️ Languages: English, Hindi, and Bhojpuri  
+- 🧠 Always learning something new in AI, software engineering, and product development  
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zenithcodr&show_icons=true&theme=transparent&title_color=00C2FF&icon_color=FF7A18&text_color=94A3B8&border_color=1F2937&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Zenithcodr&theme=transparent&ring=FF7A18&fire=FF7A18&currStreakLabel=00C2FF&border=1F2937&dates=94A3B8" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Zenithcodr&show_icons=true&theme=transparent&title_color=00C2FF&icon_color=FF7A18&text_color=94A3B8&border_color=1F2937&rank_icon=github" />
+
+<img height="175" src="https://streak-stats.demolab.com?user=Zenithcodr&theme=transparent&ring=FF7A18&fire=FF7A18&currStreakLabel=00C2FF&border=1F2937&dates=94A3B8" />
+
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenithcodr&layout=compact&theme=transparent&title_color=00C2FF&text_color=94A3B8&border_color=1F2937" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=Zenithcodr&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenithcodr&layout=compact&theme=transparent&title_color=00C2FF&text_color=94A3B8&border_color=1F2937" />
+
+<img height="180" src="https://github-profile-trophy.vercel.app/?username=Zenithcodr&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" />
+
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zenithcodr&bg_color=0B1220&color=00C2FF&line=FF7A18&point=7DFF72&area=true&hide_border=true" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zenithcodr&bg_color=0B1220&color=00C2FF&line=FF7A18&point=7DFF72&area=true&hide_border=true" />
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐻 Bear Run
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zenithcodr/Zenithcodr/output/snake.svg" alt="snake animation" />
+
+<img src="https://raw.githubusercontent.com/Zenithcodr/Zenithcodr/main/assets/bear-run.svg" width="95%" alt="Running bear animation" />
+
 </div>
+
+---
+
+## 🧭 Current Direction
+
+```txt
+AI/ML + Full-Stack Development
+        ↓
+Useful products and intelligent systems
+        ↓
+Healthcare AI, automation, computer vision, and scalable web apps
+```
+
+---
+
+## 🤝 Open To
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%2FML%20Projects-111827?style=for-the-badge&logo=python&logoColor=00C2FF" />
+<img src="https://img.shields.io/badge/Full--Stack%20Development-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Hackathons-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-111827?style=for-the-badge&logo=opensourceinitiative&logoColor=7DFF72" />
+
+</div>
+
+<br/>
+
+I am open to collaborating on:
+
+- AI/ML projects  
+- Full-stack web applications  
+- Healthcare-tech ideas  
+- Automation tools  
+- Student-led open-source projects  
+- Hackathon builds  
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="mailto:amanharshit100@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<a href="mailto:ha5034@srmist.edu.in">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<a href="https://www.linkedin.com/in/harshit-aman-zenith04/">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<a href="https://github.com/Zenithcodr">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://harshit-portfolio-livid.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+
+### ✨ “Code is not just about solving problems — it is about creating possibilities.” ✨
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FF7A18,50:7C3AED,100:00C2FF&section=footer" />
+
 </div>
