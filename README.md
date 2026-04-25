@@ -32,11 +32,6 @@ class HarshitAman:
             "Full-Stack Development",
             "Computer Vision"
         ]
-        self.current_focus = [
-            "AI Healthcare Assistant",
-            "Smart Price Tracker",
-            "Diabetic Retinopathy Detection System"
-        ]
         self.mindset = "Build with purpose. Learn with consistency. Improve with feedback."
 
     def say_hi(self):
