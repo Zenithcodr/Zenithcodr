@@ -246,16 +246,6 @@ For me, a good project is not just about writing code. It is about understanding
 
 ---
 
-## 🐻 Bear Run
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Zenithcodr/Zenithcodr/main/assets/bear-run.svg" width="95%" alt="Running bear animation" />
-
-</div>
-
----
-
 ## 🧭 Current Direction
 
 ```txt
